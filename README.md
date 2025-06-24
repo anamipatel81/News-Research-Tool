@@ -54,5 +54,5 @@ The generated embeddings and vectorstore are saved to a local file (`faiss_store
 - The embeddings will be stored and indexed using FAISS, enhancing retrieval speed.
 - The FAISS index will be saved in a local file path in pickle format for future use.
 - One can now ask a question and get the answer based on those news articles
-- In video tutorial, we used following news articles
+
    
