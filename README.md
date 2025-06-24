@@ -2,6 +2,9 @@
 
 This tool allows you to research news articles by providing URLs, processing the content, and answering your questions based on the article's information. The tool leverages **Ollama** (a local large language model) and **FAISS** (a similarity search engine) to efficiently index, retrieve, and answer queries related to stock market and financial news.
 
+![New research tool](https://github.com/user-attachments/assets/3770d861-02f5-442b-8987-33beb1057bf1)
+
+
 ## Key Features:
 - **Load News Articles**: Input up to 3 article URLs and process their content.
 - **Text Processing & Chunking**: Splits article text into smaller chunks to handle larger documents.
